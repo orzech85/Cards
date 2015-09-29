@@ -63,23 +63,23 @@ namespace Cards
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f060005
+			public const int buttonDownload = 2131099653;
+			
 			// aapt resource value: 0x7f060004
-			public const int buttonCategory = 2131099652;
-			
-			// aapt resource value: 0x7f060003
-			public const int buttonStart = 2131099651;
-			
-			// aapt resource value: 0x7f060001
-			public const int cardView = 2131099649;
-			
-			// aapt resource value: 0x7f060000
-			public const int imageView1 = 2131099648;
+			public const int buttonStart = 2131099652;
 			
 			// aapt resource value: 0x7f060002
-			public const int imageView2 = 2131099650;
+			public const int cardView = 2131099650;
 			
-			// aapt resource value: 0x7f060005
-			public const int listView = 2131099653;
+			// aapt resource value: 0x7f060001
+			public const int imageView1 = 2131099649;
+			
+			// aapt resource value: 0x7f060003
+			public const int imageView2 = 2131099651;
+			
+			// aapt resource value: 0x7f060000
+			public const int listView = 2131099648;
 			
 			static Id()
 			{
@@ -95,13 +95,16 @@ namespace Cards
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Learn = 2130903040;
+			public const int Download = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
+			public const int Learn = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int SelectCards = 2130903042;
+			public const int Main = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int SelectCards = 2130903043;
 			
 			static Layout()
 			{

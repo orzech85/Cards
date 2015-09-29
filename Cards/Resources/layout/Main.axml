@@ -9,8 +9,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/buttonStart" />
     <Button
-        android:text="Kategorie"
+        android:text="Pobierz Kategorie"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/buttonCategory" />
+        android:id="@+id/buttonDownload" />
 </LinearLayout>

@@ -52,6 +52,7 @@
     <Compile Include="Views\CardLayout.cs" />
     <Compile Include="Views\LevelView.cs" />
     <Compile Include="SelectCardsActivity.cs" />
+    <Compile Include="DownloadActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -71,6 +72,7 @@
     <AndroidResource Include="Resources\layout\Learn.axml" />
     <AndroidResource Include="Resources\layout\SelectCards.axml" />
     <AndroidResource Include="Resources\raw\pl_en.xml" />
+    <AndroidResource Include="Resources\layout\Download.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
