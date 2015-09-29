@@ -1,0 +1,4 @@
+packages/
+Cards/obj/
+Cards/bin/
+*.userprefs

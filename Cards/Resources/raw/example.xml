@@ -1,0 +1,26 @@
+﻿<cards>
+	<card>
+		<native>
+			<item type="master">transmisje sportowe</item>
+		</native>
+		<foreign>
+			<item type="master">Sportsendungen</item>
+		</foreign>
+	</card>
+	<card>
+		<native>
+			<item type="master">Telenowele</item>
+		</native>
+		<foreign>
+			<item type="master">Seifenopern</item>
+		</foreign>
+	</card>
+	<card>
+		<native>
+			<item type="master">Filmy fabularne</item>
+		</native>
+		<foreign>
+			<item type="master">Spielfilme\nSpielfim</item>
+		</foreign>
+	</card>
+</cards>
