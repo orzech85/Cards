@@ -53,6 +53,10 @@
     <Compile Include="Views\LevelView.cs" />
     <Compile Include="SelectCardsActivity.cs" />
     <Compile Include="DownloadActivity.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\LearnViewModel.cs" />
+    <Compile Include="ViewModels\SelectCardsViewModel.cs" />
+    <Compile Include="ViewModels\DownloadViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
